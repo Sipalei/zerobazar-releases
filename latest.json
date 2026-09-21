@@ -1,5 +1,5 @@
 {
-  "version": "3.1.0",
-  "notes": "Nettoyage de Windows, historique et aperçus des photos",
+  "version": "3.3.0",
+  "notes": "Vrai nettoyage du disque, compte rendu détaillé, suppression définitive",
   "windows": "https://github.com/Sipalei/zerobazar-releases/releases/latest/download/ZeroBazar.exe"
 }
