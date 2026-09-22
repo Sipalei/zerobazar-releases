@@ -1,5 +1,5 @@
 {
-  "version": "3.3.1",
-  "notes": "Vrai nettoyage du disque, compte rendu détaillé, suppression définitive",
+  "version": "3.4.0",
+  "notes": "Correction de bugs",
   "windows": "https://github.com/Sipalei/zerobazar-releases/releases/latest/download/ZeroBazar.exe"
 }
