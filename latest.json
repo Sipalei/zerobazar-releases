@@ -1,5 +1,5 @@
 {
-  "version": "3.8.0",
-  "notes": "Correction de bugs et ajouts d'UXs lissés",
-  "windows": "https://github.com/Sipalei/zerobazar-releases/releases/latest/download/ZeroBazar.exe"
+  "version": "3.14.1",
+  "notes": "Nouveau nom (Zerø Bazar), nouvelle icône, et une section « Outils » repliable dans la barre latérale",
+  "windows": "https://github.com/Sipalei/zerobazar-releases/releases/download/v3.14.1/ZeroBazar.exe"
 }
